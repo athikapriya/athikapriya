@@ -2,14 +2,17 @@
 
 ## Hi, I'm Athika👋
 
-💻 Aspiring Software Engineer 
-🌱 Currently focusing on **Python & Backend Development**
+💻 Aspiring Software Engineer
+
+🌱 Currently focusing on **Python & Backend Development** 
+
 🎯 Goal: Become a **Software Engineer building scalable systems**
 
 ***
 
 ### 💼 Experience
 **Frontend Developer – Blinto LLC**
+
 *April 2025 – July 2025*
 - Built responsive and interactive web pages using HTML, CSS, and JavaScript.
 - Ensured cross-browser compatibility and optimized page performance.
@@ -30,8 +33,11 @@ A full-stack learning platform built with **Python and Django** where users can 
 
 ### 🔗 Connect With Me
 Github : [athikapriya](https://github.com/athikapriya)
+
 Portfolio : [athikapriya.netlify.app](https://athikadev.netlify.app/)
+
 Email : [athikapriya1997@gmail.com](mailto:athikapriya1997@gmail.com)
+
 Linkedin : [https://www.linkedin.com/in/athika-chowdhury-priya](https://www.linkedin.com/in/athika-chowdhury-priya)
 
 *⭐ Always learning, building, and improving.*
