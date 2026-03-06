@@ -38,6 +38,6 @@ Portfolio : [athikapriya.netlify.app](https://athikadev.netlify.app/)
 
 Email : [athikapriya1997@gmail.com](mailto:athikapriya1997@gmail.com)
 
-Linkedin : [https://www.linkedin.com/in/athika-chowdhury-priya](https://www.linkedin.com/in/athika-chowdhury-priya)
+Linkedin : [https://www.linkedin.com/in/athika-chowdhury-priya](https://www.linkedin.com/in/athika-chowdhury-priya-a37318289/)
 
 *⭐ Always learning, building, and improving.*
