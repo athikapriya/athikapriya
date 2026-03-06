@@ -18,7 +18,7 @@
 - Ensured cross-browser compatibility and optimized page performance.
 - Collaborated with team members to deliver clean and user-friendly interfaces.
 
-
+***
 ### 📌 Featured Project
 **StudyHub – Collaborative Learning Platform**
 
@@ -29,7 +29,7 @@ A full-stack learning platform built with **Python and Django** where users can 
 
 🔗 Live Site: 
 [https://django-studyhub.onrender.com/](https://django-studyhub.onrender.com/)
-
+***
 
 ### 🔗 Connect With Me
 Github : [athikapriya](https://github.com/athikapriya)
