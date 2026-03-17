@@ -24,7 +24,7 @@
 
 A full-stack learning platform built with **Python and Django** where users can create discussion rooms, and collaborate.
 
-🔗 Repository: 
+🔗 Source Code: 
 [https://github.com/athikapriya/django-studyhub](https://github.com/athikapriya/django-studyhub)
 
 🔗 Live Site: 
